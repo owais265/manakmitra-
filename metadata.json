@@ -1,0 +1,8 @@
+{
+  "name": "ManakMitra BIS Assistant",
+  "description": "Official AI assistant helping MSMEs and consumers navigate BIS compliance with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

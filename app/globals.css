@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .sidebar-container {
+    padding: 0 !important;
+    width: 320px;
+    flex-shrink: 0;
+  }
+}
